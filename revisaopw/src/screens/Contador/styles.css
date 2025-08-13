@@ -3,3 +3,11 @@
     align-items: center;
     display: flex;
 }
+
+.items {
+    flex-direction: column;
+}
+
+.num {
+    font-size: large;
+}

@@ -3,3 +3,7 @@
     align-items: center;
     display: flex;
 }
+
+.items {
+    flex-direction: column;
+}
